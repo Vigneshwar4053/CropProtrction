@@ -67,6 +67,5 @@ Rain Sensor State Changed: 1
 ☀️ No Rain! Rotating Anti-Clockwise...
 ⏹ Stopping motors...
 
-Watch the video demo here:https://youtu.be/rlASbONKGTk?si=oKATH1VUojZu6ArC
 
 
